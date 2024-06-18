@@ -1,0 +1,322 @@
+
+.e1_2 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:3700px;
+	position:absolute;
+}
+.e32_6 { 
+	width:388px;
+	height:447px;
+	position:absolute;
+	left:322px;
+	top:298px;
+	background-image:url(images/pet_food3_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_238 { 
+	color:rgba(33.00000183284283, 33.00000183284283, 33.00000183284283, 1);
+	width:408px;
+	height:47px;
+	position:absolute;
+	left:322px;
+	top:195px;
+	font-family:Noto Sans KR;
+	font-weight: 700;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e2_5 { 
+	background-color:rgba(255, 242.00000077486038, 0, 1);
+	width:220px;
+	height:48px;
+	position:absolute;
+	left:322px;
+	top:136px;
+}
+.e2_4 { 
+	color:rgba(33.00000183284283, 33.00000183284283, 33.00000183284283, 1);
+	width:580px;
+	height:93px;
+	position:absolute;
+	left:322px;
+	top:100px;
+	font-family:Noto Sans KR;
+	font-weight: 800;
+	text-align:left;
+	font-size:64px;
+	letter-spacing:0;
+}
+.e2_6 { 
+	background-color:rgba(255, 242.00000077486038, 0, 1);
+	width:220px;
+	height:48px;
+	position:absolute;
+	left:322px;
+	top:874px;
+}
+.e2_7 { 
+	color:rgba(33.00000183284283, 33.00000183284283, 33.00000183284283, 1);
+	width:580px;
+	height:93px;
+	position:absolute;
+	left:322px;
+	top:838px;
+	font-family:Noto Sans KR;
+	font-weight: 800;
+	text-align:left;
+	font-size:64px;
+	letter-spacing:0;
+}
+.e37_2 { 
+	color:rgba(33.00000183284283, 33.00000183284283, 33.00000183284283, 1);
+	width:765px;
+	height:52px;
+	position:absolute;
+	left:322px;
+	top:939px;
+	font-family:Noto Sans KR;
+	font-weight: 700;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e2_14 { 
+	background-color:rgba(255, 242.00000077486038, 0, 1);
+	width:340px;
+	height:48px;
+	position:absolute;
+	left:322px;
+	top:1907px;
+}
+.e2_15 { 
+	color:rgba(33.00000183284283, 33.00000183284283, 33.00000183284283, 1);
+	width:580px;
+	height:93px;
+	position:absolute;
+	left:322px;
+	top:1871px;
+	font-family:Noto Sans KR;
+	font-weight: 800;
+	text-align:left;
+	font-size:64px;
+	letter-spacing:0;
+}
+.e37_3 { 
+	color:rgba(33.00000183284283, 33.00000183284283, 33.00000183284283, 1);
+	width:765px;
+	height:69px;
+	position:absolute;
+	left:322px;
+	top:1980px;
+	font-family:Noto Sans KR;
+	font-weight: 700;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e2_22 { 
+	background-color:rgba(255, 242.00000077486038, 0, 1);
+	width:240px;
+	height:48px;
+	position:absolute;
+	left:322px;
+	top:2809px;
+}
+.e2_23 { 
+	color:rgba(33.00000183284283, 33.00000183284283, 33.00000183284283, 1);
+	width:580px;
+	height:93px;
+	position:absolute;
+	left:322px;
+	top:2773px;
+	font-family:Noto Sans KR;
+	font-weight: 800;
+	text-align:left;
+	font-size:64px;
+	letter-spacing:0;
+}
+.e2_24 { 
+	color:rgba(33.00000183284283, 33.00000183284283, 33.00000183284283, 1);
+	width:863px;
+	height:51px;
+	position:absolute;
+	left:288px;
+	top:3093px;
+	font-family:Noto Sans KR;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e2_25 { 
+	color:rgba(33.00000183284283, 33.00000183284283, 33.00000183284283, 1);
+	width:470px;
+	height:290px;
+	position:absolute;
+	left:485px;
+	top:3144px;
+	font-family:Noto Sans KR;
+	text-align:center;
+	font-size:14px;
+	letter-spacing:0;
+}
+.e2_3 { 
+	color:rgba(33.00000183284283, 33.00000183284283, 33.00000183284283, 1);
+	width:388px;
+	height:447px;
+	position:absolute;
+	left:730px;
+	top:298px;
+	font-family:Noto Sans KR;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0;
+}
+.e32_2 { 
+	width:388px;
+	height:388px;
+	position:absolute;
+	left:322px;
+	top:1040px;
+	background-image:url(images/pet_food2_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e2_12 { 
+	color:rgba(255, 242.00000077486038, 0, 1);
+	width:420px;
+	height:40px;
+	position:absolute;
+	left:338px;
+	top:1050px;
+	font-family:Noto Sans KR;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e2_10 { 
+	color:rgba(33.00000183284283, 33.00000183284283, 33.00000183284283, 1);
+	width:388px;
+	height:208px;
+	position:absolute;
+	left:322px;
+	top:1439px;
+	font-family:Noto Sans KR;
+	text-align:left;
+	font-size:14px;
+	letter-spacing:0;
+}
+.e32_3 { 
+	width:388px;
+	height:388px;
+	position:absolute;
+	left:730px;
+	top:1040px;
+	background-image:url(images/factory_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e2_13 { 
+	color:rgba(255, 242.00000077486038, 0, 1);
+	width:420px;
+	height:40px;
+	position:absolute;
+	left:746px;
+	top:1050px;
+	font-family:Noto Sans KR;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e2_11 { 
+	color:rgba(33.00000183284283, 33.00000183284283, 33.00000183284283, 1);
+	width:385px;
+	height:339px;
+	position:absolute;
+	left:733px;
+	top:1439px;
+	font-family:Noto Sans KR;
+	text-align:left;
+	font-size:14px;
+	letter-spacing:0;
+}
+.e32_4 { 
+	width:388px;
+	height:388px;
+	position:absolute;
+	left:322px;
+	top:2091px;
+	background-image:url(images/guideline_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e2_17 { 
+	color:rgba(255, 242.00000077486038, 0, 1);
+	width:420px;
+	height:40px;
+	position:absolute;
+	left:333px;
+	top:2103px;
+	font-family:Noto Sans KR;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e2_20 { 
+	color:rgba(33.00000183284283, 33.00000183284283, 33.00000183284283, 1);
+	width:388px;
+	height:159px;
+	position:absolute;
+	left:322px;
+	top:2494px;
+	font-family:Noto Sans KR;
+	text-align:left;
+	font-size:14px;
+	letter-spacing:0;
+}
+.e32_5 { 
+	width:388px;
+	height:388px;
+	position:absolute;
+	left:730px;
+	top:2091px;
+	background-image:url(images/goverment_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e2_19 { 
+	color:rgba(255, 242.00000077486038, 0, 1);
+	width:420px;
+	height:40px;
+	position:absolute;
+	left:744px;
+	top:2103px;
+	font-family:Noto Sans KR;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e2_21 { 
+	color:rgba(33.00000183284283, 33.00000183284283, 33.00000183284283, 1);
+	width:388px;
+	height:159px;
+	position:absolute;
+	left:730px;
+	top:2494px;
+	font-family:Noto Sans KR;
+	text-align:left;
+	font-size:14px;
+	letter-spacing:0;
+}
+.e38_4 { 
+	width:488px;
+	height:151px;
+	position:absolute;
+	left:476px;
+	top:2913px;
+	background-image:url(images/aafco____1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
